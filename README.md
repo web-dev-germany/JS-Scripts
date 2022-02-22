@@ -1,6 +1,6 @@
 # JS-Scripts
 
-Hier werden die Skripts in JavaSkript gespeichert.
+Hier werden die Skripte in JavaSkript gespeichert.
 Z.B.:
 
 ``function hello() {
